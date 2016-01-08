@@ -10,4 +10,5 @@ import Foundation
 
 class SampleClass {
     var str = "Hello world"
+    var anotherBranch = "anotherBranch"
 }
