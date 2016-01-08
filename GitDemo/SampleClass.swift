@@ -11,4 +11,5 @@ import Foundation
 class SampleClass {
     var str = "Hello world"
     var anotherBranch = "anotherBranch"
+    var git = "https://github.com/rtrevivian/GitDemo.git"
 }
